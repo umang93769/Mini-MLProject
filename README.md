@@ -1,5 +1,6 @@
 # Mini-MLProject
 Vehicle Detection using OpenCv
+
 The OpenCV (cv2) module supports computer vision and deep learning.  The objective of this vehicle driving Python project is detection of a vehicle in video frames. In addition, the vehicles will be tracked within each frame.
 
 Vehicle Detection Advantages
